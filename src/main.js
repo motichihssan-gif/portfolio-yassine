@@ -168,14 +168,14 @@ document.querySelector('#app').innerHTML = `
           </div>
         </div>
         <div class="timeline-item reveal">
-          <div class="year">23-25</div>
+          <div class="year">09/2023-07/2025</div>
           <div class="card">
             <h3 id="edu_2_title"></h3>
             <p id="edu_2_details" class="academic-detail"></p>
           </div>
         </div>
         <div class="timeline-item reveal">
-          <div class="year">22-23</div>
+          <div class="year">09/2022-07/2023</div>
           <div class="card">
             <h3 id="edu_3_title"></h3>
             <p id="edu_3_details" class="academic-detail"></p>
@@ -209,8 +209,10 @@ document.querySelector('#app').innerHTML = `
        <div class="container reveal">
           <div class="slider-wrapper">
             <img src="/WhatsApp Image 2026-02-11 at 00.17.32.jpeg" class="slide active">
-            <img src="/WhatsApp Image 2026-02-11 at 00.10.14 (1).jpeg" class="slide">
             <img src="/WhatsApp Image 2026-02-11 at 00.15.07.jpeg" class="slide">
+            <img src="/WhatsApp Image 2026-02-15 at 15.27.09.jpeg" class="slide">
+            <img src="/WhatsApp Image 2026-02-15 at 15.27.10.jpeg" class="slide">
+            <img src="/WhatsApp Image 2026-02-15 at 15.27.10 (1).jpeg" class="slide">
           </div>
        </div>
     </section>
